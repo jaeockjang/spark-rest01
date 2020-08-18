@@ -4,9 +4,6 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * Created by Owner on 2017. 03. 29..
- */
 @Data
 public class Word implements Serializable {
     private String word;
